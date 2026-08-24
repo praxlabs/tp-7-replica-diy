@@ -1,0 +1,86 @@
+solid TP7_Chassis_Bottom_Lid
+  facet normal 0.0000 0.0000 1.0000
+    outer loop
+      vertex 0.000 0.000 2.500
+      vertex 68.000 0.000 2.500
+      vertex 68.000 96.000 2.500
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 1.0000
+    outer loop
+      vertex 0.000 0.000 2.500
+      vertex 68.000 96.000 2.500
+      vertex 0.000 96.000 2.500
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 68.000 96.000 0.000
+      vertex 68.000 0.000 0.000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 68.000 0.000 0.000
+      vertex 0.000 0.000 0.000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex 0.000 0.000 0.000
+      vertex 68.000 0.000 0.000
+      vertex 68.000 0.000 2.500
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex 0.000 0.000 0.000
+      vertex 68.000 0.000 2.500
+      vertex 0.000 0.000 2.500
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 68.000 96.000 0.000
+      vertex 0.000 96.000 0.000
+      vertex 0.000 96.000 2.500
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 68.000 96.000 0.000
+      vertex 0.000 96.000 2.500
+      vertex 68.000 96.000 2.500
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 0.000 0.000 0.000
+      vertex 0.000 0.000 2.500
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 0.000 0.000 2.500
+      vertex 0.000 96.000 2.500
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 68.000 0.000 0.000
+      vertex 68.000 96.000 0.000
+      vertex 68.000 96.000 2.500
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 68.000 0.000 0.000
+      vertex 68.000 96.000 2.500
+      vertex 68.000 0.000 2.500
+    endloop
+  endfacet
+endsolid TP7_Chassis_Bottom_Lid

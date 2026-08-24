@@ -1,0 +1,156 @@
+solid TP7_Main_Chassis_Top
+  facet normal 0.0000 0.0000 1.0000
+    outer loop
+      vertex 0.000 0.000 14.000
+      vertex 68.000 0.000 14.000
+      vertex 68.000 96.000 14.000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 1.0000
+    outer loop
+      vertex 0.000 0.000 14.000
+      vertex 68.000 96.000 14.000
+      vertex 0.000 96.000 14.000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 68.000 96.000 0.000
+      vertex 68.000 0.000 0.000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 68.000 0.000 0.000
+      vertex 0.000 0.000 0.000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex 0.000 0.000 0.000
+      vertex 68.000 0.000 0.000
+      vertex 68.000 0.000 14.000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex 0.000 0.000 0.000
+      vertex 68.000 0.000 14.000
+      vertex 0.000 0.000 14.000
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 68.000 96.000 0.000
+      vertex 0.000 96.000 0.000
+      vertex 0.000 96.000 14.000
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 68.000 96.000 0.000
+      vertex 0.000 96.000 14.000
+      vertex 68.000 96.000 14.000
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 0.000 0.000 0.000
+      vertex 0.000 0.000 14.000
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex 0.000 96.000 0.000
+      vertex 0.000 0.000 14.000
+      vertex 0.000 96.000 14.000
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 68.000 0.000 0.000
+      vertex 68.000 96.000 0.000
+      vertex 68.000 96.000 14.000
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 68.000 0.000 0.000
+      vertex 68.000 96.000 14.000
+      vertex 68.000 0.000 14.000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex 2.000 2.000 2.000
+      vertex 2.000 94.000 2.000
+      vertex 66.000 94.000 2.000
+    endloop
+  endfacet
+  facet normal 0.0000 0.0000 -1.0000
+    outer loop
+      vertex 2.000 2.000 2.000
+      vertex 66.000 94.000 2.000
+      vertex 66.000 2.000 2.000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex 2.000 2.000 0.000
+      vertex 66.000 2.000 0.000
+      vertex 66.000 2.000 2.000
+    endloop
+  endfacet
+  facet normal 0.0000 -1.0000 0.0000
+    outer loop
+      vertex 2.000 2.000 0.000
+      vertex 66.000 2.000 2.000
+      vertex 2.000 2.000 2.000
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 66.000 94.000 0.000
+      vertex 2.000 94.000 0.000
+      vertex 2.000 94.000 2.000
+    endloop
+  endfacet
+  facet normal 0.0000 1.0000 0.0000
+    outer loop
+      vertex 66.000 94.000 0.000
+      vertex 2.000 94.000 2.000
+      vertex 66.000 94.000 2.000
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex 2.000 94.000 0.000
+      vertex 2.000 2.000 0.000
+      vertex 2.000 2.000 2.000
+    endloop
+  endfacet
+  facet normal -1.0000 0.0000 0.0000
+    outer loop
+      vertex 2.000 94.000 0.000
+      vertex 2.000 2.000 2.000
+      vertex 2.000 94.000 2.000
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 66.000 2.000 0.000
+      vertex 66.000 94.000 0.000
+      vertex 66.000 94.000 2.000
+    endloop
+  endfacet
+  facet normal 1.0000 0.0000 0.0000
+    outer loop
+      vertex 66.000 2.000 0.000
+      vertex 66.000 94.000 2.000
+      vertex 66.000 2.000 2.000
+    endloop
+  endfacet
+endsolid TP7_Main_Chassis_Top
